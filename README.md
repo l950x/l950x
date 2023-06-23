@@ -2,7 +2,7 @@
 <br/>
 <hr/>
 <div align="center">
-<img src="https://cdn.discordapp.com/attachments/1077640007369641984/1121728284317712394/standard_3.gif" align="center" style="width: 40%" />
+<img src="![](https://github.com/l950p/L950P/blob/main/standard%20(3).gif)" align="center" style="width: 40%" />
 </div>  
   
 
