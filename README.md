@@ -2,7 +2,7 @@
 <br/>
 <hr/>
 <div align="center">
-<img src="https://api.creavite.co/out/lB3jW8LUujNXrx9lrb_standard.gif" align="center" style="width: 40%" />
+<img src="https://api.creavite.co/out/lB3jW8LUujNXrx9lrb_standard.gif" align="center" style="width: 100%" />
 </div>  
   
 
