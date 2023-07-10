@@ -2,7 +2,7 @@
 <br/>
 <hr/>
 <div align="center">
-<img src="https://api.creavite.co/out/gaAnfgTTZ0Djrx9lrv_standard.gif" align="center" style="width: 100%" />
+<img src="https://cdn.discordapp.com/attachments/1077640007369641984/1121728284317712394/standard_3.gif" align="center" style="width: 100%" />
 </div>  
   
 
