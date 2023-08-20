@@ -46,6 +46,6 @@
 
 <br clear="both">
 
-<img src="https://cdn.discordapp.com/attachments/1077640007369641984/1142836495586164776/standard_3.svg" alt="logo" />
+<img src="https://s145.convertio.me/p/-0WyFflFyJ46mVI56f_QAA/d1cf26b82bac77ac556c52bd13d470d6/standard_3.svg" alt="logo" />
 
 ###
