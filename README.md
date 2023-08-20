@@ -46,6 +46,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/l950x/l950x/output/snake.svg" alt="Snake animation" />
+<img src="https://s145.convertio.me/p/-0WyFflFyJ46mVI56f_QAA/d1cf26b82bac77ac556c52bd13d470d6/standard_3.svg" alt="logo" />
 
 ###
