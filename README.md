@@ -46,5 +46,3 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="https://cdn.discordapp.com/attachments/1077640007369641984/1121728284317712394/standard_3.gif"  />
-###
