@@ -7,7 +7,7 @@
 
 ###
 
-<img align="right" height="150" src="https://api.creavite.co/out/E6nmLxc0o3y5rzp3es_standard.gif"  />
+<img align="right" height="150" src="https://cdn.discordapp.com/attachments/1077640007369641984/1143477568146788392/standard_12.gif"  />
 
 ###
 
