@@ -10,7 +10,6 @@
 <img align="right" height="150" src="https://cdn.discordapp.com/attachments/1077640007369641984/1143477568146788392/standard_12.gif"  />
 
 ###
-<br/>
 -------------------------------------
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
