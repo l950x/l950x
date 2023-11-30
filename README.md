@@ -1,4 +1,6 @@
 <div align="center">𝒽𝓉𝓉𝓅𝓈://𝑔𝒾𝓉𝒽𝓊𝒷.𝒸𝑜𝓂/𝓁𝟫𝟧𝟢𝓍</div>
+<!-- <div align="center">​🇩​​🇪​​🇻​​🇪​​🇱​​🇴​​🇵​​🇵​​🇪​​🇷​ ​🇸​​🇮​​🇳​​🇨​​🇪 ~2015</div> -->
+<!-- <div align="center">🇫​​🇺​​🇱​​🇱​ ​🇸​​🇹​​🇦​​🇨​​🇰​ ​🇩​​🇪​​🇻​​🇪​​🇱​​🇴​​🇵​​🇵​​🇪​​🇷​ (​🇯​​🇺​​🇳​​🇮​​🇴​​🇷​) ​🇸​​🇮​​🇳​​🇨​​🇪 2023</div> -->
 <div align="center">🇫​​🇺​​🇱​​🇱​ ​🇸​​🇹​​🇦​​🇨​​🇰​ ​🇩​​🇪​​🇻​​🇪​​🇱​​🇴​​🇵​​🇵​​🇪​​🇷​ (​🇯​​🇺​​🇳​​🇮​​🇴​​🇷​)</div>
 
 ###
@@ -12,7 +14,7 @@
 
 ###
 <br/>
--------------------------------------
+----------------------------------------
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -36,7 +38,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="30" alt="premierepro logo"  />
   <img width="12" />
   <br/>
-  -------------------------------------
+  ----------------------------------------
 </div>
 
 ###
