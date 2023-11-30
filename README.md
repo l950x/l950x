@@ -1,5 +1,5 @@
 <div align="center">𝒽𝓉𝓉𝓅𝓈://𝑔𝒾𝓉𝒽𝓊𝒷.𝒸𝑜𝓂/𝓁𝟫𝟧𝟢𝓍</div>
-<div align="center">Full Stack Developper (junior)</div>
+<div align="center">🇫​​🇺​​🇱​​🇱​ ​🇸​​🇹​​🇦​​🇨​​🇰​ ​🇩​​🇪​​🇻​​🇪​​🇱​​🇴​​🇵​​🇵​​🇪​​🇷​ (​🇯​​🇺​​🇳​​🇮​​🇴​​🇷​)</div>
 
 ###
 
