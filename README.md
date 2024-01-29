@@ -15,7 +15,7 @@
                                                                
 
 <div align="center">https://github.com/l950x/</div>
-<div align="center">full stack developper (junior)</div>
+<div align="center">full stack developper</div>
 
 ###
 
