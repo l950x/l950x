@@ -24,7 +24,7 @@
 
 ###
 
-<img align="right" height="150" src="https://cdn.discordapp.com/attachments/1077640007369641984/1143477568146788392/standard_12.gif"  />
+<img align="right" height="150" src="https://cdn.discordapp.com/attachments/1077640007369641984/1263567289278533754/standard_1.gif?ex=669ab43d&is=669962bd&hm=71ecd24d51043e6da5f48142356da2687f708045fe193dbc8391026639f5b423&"  />
 
 ###
 <br/>
