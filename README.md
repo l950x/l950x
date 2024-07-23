@@ -76,6 +76,9 @@
 <hr style="border: 1px solid #ccc; margin: 20px 0;">
 
 <p align="center">
+<a href="https://github.com/l950x/QPanel">
+  <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=l950x&repo=QPanel&title_color=8212F3&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 <a href="https://github.com/l950x/QPanel-discordbot-preview">
   <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=l950x&repo=QPanel-discordbot-preview&title_color=8212F3&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
