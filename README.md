@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8212F3&height=65&section=header"/>
+</p>
+
 ```                                     ..                                                       
                                   x .d88"                          cuuu....uK        .n~~%x.     
                                   5888R            .xn!~%x.       888888888       x88X   888.   
