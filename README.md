@@ -87,13 +87,13 @@
 </a> 
 </p>
 
-<h2 align="center">​🇸​​🇹​​🇦​​🇹​​🇸​</h2>
+<!--<h2 align="center">​🇸​​🇹​​🇦​​🇹​​🇸​</h2>
 <br>
 <p align="center">
 <a href="https://github.com/l950x/">
       <img width=325  src="https://github-readme-stats.vercel.app/api/top-langs/?username=l950x&size_weight=0.2&count_weight=0.5&title_color=8212F3&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
  </a>
-</p>
+</p> -->
 <hr style="border: 1px solid #ccc; margin: 20px 0;">
 <p align="center">
   <a href="https://www.github.com/l950x" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/l950x?logo=github&style=for-the-badge&color=FF00CD&labelColor=8212F3" alt="GitHub followers badge" /></a>
