@@ -84,5 +84,5 @@
 </a> 
 </p>
 <p align="center">
-  <a href="https://www.github.com/HalemoGPA" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/l950x?logo=github&style=for-the-badge&color=FF00CD&labelColor=8212F3" alt="GitHub followers badge" /></a>
+  <a href="https://www.github.com/l950x" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/l950x?logo=github&style=for-the-badge&color=FF00CD&labelColor=8212F3" alt="GitHub followers badge" /></a>
 </p>
