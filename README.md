@@ -1,6 +1,6 @@
 <!-- What are you looking for .. ? -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8212F3&height=65&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=23282F&height=65&section=header"/>
 </p>
 
 ```                                     ..                                                       
