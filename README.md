@@ -75,11 +75,14 @@
 </div>
 <hr style="border: 1px solid #ccc; margin: 20px 0;">
 
-###
-
-
-
-###
-
-<br clear="both">
-
+<p align="center">
+<a href="https://github.com/l950x/QPanel-discordbot-preview">
+  <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=l950x&repo=QPanel-discordbot-preview&title_color=8212F3&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/l950x/Snapchat-Autoaccept-preview">
+  <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=l950x&repo=Snapchat-Autoaccept-preview&title_color=8212F3&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a> 
+</p>
+<p align="center">
+  <a href="https://www.github.com/HalemoGPA" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/l950x?logo=github&style=for-the-badge&color=FF00CD&labelColor=8212F3" alt="GitHub followers badge" /></a>
+</p>
