@@ -18,7 +18,7 @@
                                                    ^"===""
 ```
 
-<div align="center">https://github.com/l950x/</div>
+<div align="center">https://l950x.github.io/l950-portfolio/</div>
 <div align="center">full stack developper</div>
 
 ###
