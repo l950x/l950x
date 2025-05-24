@@ -19,7 +19,7 @@
 ```
 
 <div align="center">https://l950.fr</div>
-<div align="center">full stack developper</div>
+<!-- <div align="center">full stack developper</div> -->
 
 ###
 
