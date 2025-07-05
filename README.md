@@ -28,7 +28,7 @@
 
 ###
 
-<img align="right" height="180" src="cmd.gif" style="border: 2px solid grey;"  />
+<img align="right" height="180" width="180" src="cmd.gif" style="border: 2px solid grey;"  />
 
 ###
 
